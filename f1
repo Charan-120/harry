@@ -5,4 +5,8 @@ add()
 {
 printf("Addition of a and b is : "(a+b));
 }
+sub()
+{
+printf("Subtrction of a and b is : "(a-b));
+}
 }
